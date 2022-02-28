@@ -7,4 +7,4 @@ Projeto desenvolvido durante o curso da B7Web.
 - `npm install`
 
 ## Para rodar
-- `npm run start`
+- `npm run dev`
