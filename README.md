@@ -1,10 +1,9 @@
 # Calculadora de IMC
 Projeto em React fazendo uma calculadora de IMC.
 
-Projeto desenvolvido durante o curso da B7Web.
+ ![Imagem do projeto funcionando](./img.png)
+ 
+## Iniciando o projeto:
 
-## Instalação
-- `npm install`
-
-## Para rodar
-- `npm run dev`
+**3 - Iniciando aplicação:**
+- Use o comando 'npm run dev' para iniciar a aplicação!
