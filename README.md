@@ -5,5 +5,5 @@ Projeto em React fazendo uma calculadora de IMC.
  
 ## Iniciando o projeto:
 
-**3 - Iniciando aplicação:**
+**1 - Iniciando aplicação:**
 - Use o comando 'npm run dev' para iniciar a aplicação!
