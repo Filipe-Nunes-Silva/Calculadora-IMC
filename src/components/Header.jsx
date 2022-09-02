@@ -6,7 +6,8 @@ export const Header = ()=>{
         <>
             <header>
                 <div className="header-container">
-                <img src={powerBy} alt="Distribuido por:"/>
+                {/* <img src={powerBy} alt="Distribuido por:"/> */}
+                <div>Powered By Filipe Nunes</div>
                 </div>
             </header>
         </>
